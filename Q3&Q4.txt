@@ -1,0 +1,7 @@
+Q3. 		
+		The file called prog2.java is better because firstly, its instance variable is private. It also
+	calls the proper method that gets the string, as .name() is not method.
+
+Q4. 
+		It is bad because there are methods that are unrelated to function of the class. The way to improve
+	the class, is to remove the validateLocation(), checkFTP(), and ping() methods.
